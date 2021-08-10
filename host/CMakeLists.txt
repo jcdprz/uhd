@@ -292,6 +292,7 @@ set(UHD_BOOST_REQUIRED_COMPONENTS
     unit_test_framework
     serialization
     thread
+    math
 )
 include(UHDBoost)
 
