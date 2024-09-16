@@ -20,6 +20,8 @@
 #include <boost/bind.hpp>
 #include <boost/format.hpp>
 #include <boost/thread.hpp>
+#include <boost/math/special_functions/round.hpp>
+#include <boost/math/special_functions/sign.hpp>
 
 using namespace uhd;
 using namespace uhd::usrp;
